@@ -32,7 +32,7 @@ namespace CH04_prj3_Tip_Calculator {
                 Console.Write("would you like to calculate another tip? (y/n): ");
                 choice = Console.ReadLine();
             }
-            Console.WriteLine("Goodbye!")
+            Console.WriteLine("Goodbye!");
         }
     }
 }

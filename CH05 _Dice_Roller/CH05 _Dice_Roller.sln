@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH05 _Dice_Roller", "CH05 _Dice_Roller\CH05 _Dice_Roller.csproj", "{F9785751-B59A-4418-A2A4-59CC7154355C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9785751-B59A-4418-A2A4-59CC7154355C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9785751-B59A-4418-A2A4-59CC7154355C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9785751-B59A-4418-A2A4-59CC7154355C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9785751-B59A-4418-A2A4-59CC7154355C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381275EC-2C0E-41A3-8268-D50358C558E3}
+	EndGlobalSection
+EndGlobal
