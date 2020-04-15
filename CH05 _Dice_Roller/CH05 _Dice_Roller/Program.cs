@@ -28,8 +28,10 @@ namespace CH05__Dice_Roller {
         private static void SpecialMessage(int sumDice) {
             if (sumDice == 12) {
                 Console.WriteLine("boxcars!");
+                Console.WriteLine();
             } else if (sumDice == 2) {
                 Console.WriteLine("Snake eyes!");
+                Console.WriteLine();
             }
         }
 
